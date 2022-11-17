@@ -3,6 +3,9 @@
 
 기존 DevIn 프로젝트 :point_right: https://github.com/parkinhwa/FEDC2_DevIn_Channi
 
+## 배포주소
+:point_right: https://dev-in-to-vite.vercel.app/
+
 ## 방법
 
 ### 1. vite 프로젝트 생성
